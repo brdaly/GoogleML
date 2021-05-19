@@ -1,4 +1,5 @@
 # This will be replaced with your bucket name after running the `sed` command in the tutorial
+
 BUCKET = "BUCKET_NAME"
 
 import numpy as np
